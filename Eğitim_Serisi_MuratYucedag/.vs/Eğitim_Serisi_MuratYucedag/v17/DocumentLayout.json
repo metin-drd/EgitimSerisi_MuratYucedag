@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Metin\\source\\repos\\E\u011Fitim_Serisi_MuratYucedag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFF8D08-D8B1-4783-B8B5-C6768FDCED92}|E\u011Fitim_Serisi_MuratYucedag\\E\u011Fitim_Serisi_MuratYucedag.csproj|c:\\users\\metin\\source\\repos\\e\u011Fitim_serisi_muratyucedag\\e\u011Fitim_serisi_muratyucedag\\ilk_case.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFF8D08-D8B1-4783-B8B5-C6768FDCED92}|E\u011Fitim_Serisi_MuratYucedag\\E\u011Fitim_Serisi_MuratYucedag.csproj|solutionrelative:e\u011Fitim_serisi_muratyucedag\\ilk_case.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFF8D08-D8B1-4783-B8B5-C6768FDCED92}|E\u011Fitim_Serisi_MuratYucedag\\E\u011Fitim_Serisi_MuratYucedag.csproj|c:\\users\\metin\\source\\repos\\e\u011Fitim_serisi_muratyucedag\\e\u011Fitim_serisi_muratyucedag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFF8D08-D8B1-4783-B8B5-C6768FDCED92}|E\u011Fitim_Serisi_MuratYucedag\\E\u011Fitim_Serisi_MuratYucedag.csproj|solutionrelative:e\u011Fitim_serisi_muratyucedag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ilk_Case.cs",
+              "DocumentMoniker": "C:\\Users\\Metin\\source\\repos\\E\u011Fitim_Serisi_MuratYucedag\\E\u011Fitim_Serisi_MuratYucedag\\Ilk_Case.cs",
+              "RelativeDocumentMoniker": "E\u011Fitim_Serisi_MuratYucedag\\Ilk_Case.cs",
+              "ToolTip": "C:\\Users\\Metin\\source\\repos\\E\u011Fitim_Serisi_MuratYucedag\\E\u011Fitim_Serisi_MuratYucedag\\Ilk_Case.cs",
+              "RelativeToolTip": "E\u011Fitim_Serisi_MuratYucedag\\Ilk_Case.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:57:44.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Metin\\source\\repos\\E\u011Fitim_Serisi_MuratYucedag\\E\u011Fitim_Serisi_MuratYucedag\\Program.cs",
+              "RelativeDocumentMoniker": "E\u011Fitim_Serisi_MuratYucedag\\Program.cs",
+              "ToolTip": "C:\\Users\\Metin\\source\\repos\\E\u011Fitim_Serisi_MuratYucedag\\E\u011Fitim_Serisi_MuratYucedag\\Program.cs",
+              "RelativeToolTip": "E\u011Fitim_Serisi_MuratYucedag\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:56:56.611Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

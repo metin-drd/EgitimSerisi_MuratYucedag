@@ -1,0 +1,4 @@
+C:\Users\Metin\source\repos\Eğitim_Serisi_MuratYucedag\Eğitim_Serisi_MuratYucedag\obj\Debug\net8.0\Eğitim_Serisi_MuratYucedag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metin\source\repos\Eğitim_Serisi_MuratYucedag\Eğitim_Serisi_MuratYucedag\obj\Debug\net8.0\Eğitim_Serisi_MuratYucedag.AssemblyInfoInputs.cache
+C:\Users\Metin\source\repos\Eğitim_Serisi_MuratYucedag\Eğitim_Serisi_MuratYucedag\obj\Debug\net8.0\Eğitim_Serisi_MuratYucedag.AssemblyInfo.cs
+C:\Users\Metin\source\repos\Eğitim_Serisi_MuratYucedag\Eğitim_Serisi_MuratYucedag\obj\Debug\net8.0\Eğitim_Serisi_MuratYucedag.csproj.CoreCompileInputs.cache
